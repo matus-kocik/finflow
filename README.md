@@ -1,1 +1,1 @@
-# finflow
+# FinFlow
